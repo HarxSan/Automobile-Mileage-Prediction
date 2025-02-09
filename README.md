@@ -8,7 +8,12 @@ Predicting the mileage of an automobile is crucial for optimizing fuel efficienc
 
 ✨ Features
 
-✅ Accurate Mileage Prediction using ML models (Linear Regression, Random Forest, XGBoost, etc.)✅ Feature Engineering to enhance model performance✅ Exploratory Data Analysis (EDA) for insightful data visualization✅ Hyperparameter Tuning for optimizing model performance✅ Deployment Ready using Flask or FastAPI (Optional)✅ Interactive Dashboard (Using Streamlit or Dash) for user-friendly predictions
+✅ Accurate Mileage Prediction using ML models (Linear Regression, Random Forest, XGBoost, etc.)
+✅ Feature Engineering to enhance model performance
+✅ Exploratory Data Analysis (EDA) for insightful data visualization
+✅ Hyperparameter Tuning for optimizing model performance
+✅ Deployment Ready using Flask or FastAPI (Optional)
+✅ Interactive Dashboard (Using Streamlit or Dash) for user-friendly predictions
 
 📂 Project Structure
 
@@ -24,7 +29,13 @@ Predicting the mileage of an automobile is crucial for optimizing fuel efficienc
 
 🔧 Technologies Used
 
-🔹 Python (3.8+)🔹 Pandas & NumPy - Data manipulation🔹 Matplotlib & Seaborn - Data visualization🔹 Scikit-learn - Machine learning models🔹 XGBoost & RandomForest - Advanced predictive models🔹 Flask/FastAPI - API deployment (Optional)🔹 Streamlit/Dash - Interactive UI (Optional)
+🔹 Python (3.8+)
+🔹 Pandas & NumPy - Data manipulation
+🔹 Matplotlib & Seaborn - Data visualization
+🔹 Scikit-learn - Machine learning models
+🔹 XGBoost & RandomForest - Advanced predictive models
+🔹 Flask/FastAPI - API deployment (Optional)
+🔹 Streamlit/Dash - Interactive UI (Optional)
 
 📊 Data Used
 
@@ -50,7 +61,9 @@ The dataset used in this project includes various automobile attributes such as:
 
 1️⃣ Clone the repository:
 
+
 git clone https://github.com/your-username/automobile-mileage-prediction.git
+
 cd automobile-mileage-prediction
 
 2️⃣ Install dependencies:
@@ -71,11 +84,16 @@ streamlit run dashboard.py
 
 📌 Results & Insights
 
-🔹 Achieved high prediction accuracy with optimized machine learning models.🔹 Feature Importance Analysis revealed the top factors affecting mileage.🔹 Interactive Dashboard enables users to input car specifications and get predicted MPG.
+🔹 Achieved high prediction accuracy with optimized machine learning models.
+🔹 Feature Importance Analysis revealed the top factors affecting mileage.
+🔹 Interactive Dashboard enables users to input car specifications and get predicted MPG.
 
 🌟 Future Enhancements
 
-🚀 Deep Learning Implementation (Using TensorFlow/PyTorch)🚀 Addition of Real-Time Data for Continuous Learning🚀 Enhanced Web Dashboard with More Interactive Features🚀 Integration with Automobile APIs for Live Data Processing
+🚀 Deep Learning Implementation (Using TensorFlow/PyTorch)
+🚀 Addition of Real-Time Data for Continuous Learning
+🚀 Enhanced Web Dashboard with More Interactive Features
+🚀 Integration with Automobile APIs for Live Data Processing
 
 📢 Contributing
 
