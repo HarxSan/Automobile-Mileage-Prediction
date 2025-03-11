@@ -1,5 +1,4 @@
-**🚗 Automobile Mileage Prediction
-**
+🚗 Automobile Mileage Prediction
 
 🚀 Overview
 ---
@@ -124,7 +123,7 @@ streamlit run dashboard.py
 🔹 Interactive Dashboard enables users to input car specifications and get predicted MPG.
 
 
-🌟 ##Future Enhancements
+🌟 Future Enhancements
 ---
 
 🚀 Deep Learning Implementation (Using TensorFlow/PyTorch)
@@ -136,7 +135,7 @@ streamlit run dashboard.py
 🚀 Integration with Automobile APIs for Live Data Processing
 
 
-📢 ##Contributing
+📢 Contributing
 ---
 
 Want to improve this project? Contributions are welcome! Please open an issue or submit a pull request.
