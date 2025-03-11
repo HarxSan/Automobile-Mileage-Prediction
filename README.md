@@ -1,13 +1,15 @@
-🚗 #Automobile Mileage Prediction
+🚗 Automobile Mileage Prediction
 
   
 
-🚀 ##Overview
+🚀 Overview
+
 
 Predicting the mileage of an automobile is crucial for optimizing fuel efficiency, reducing costs, and making informed decisions about vehicle performance. This project leverages machine learning techniques to build a predictive model that estimates the Miles Per Gallon (MPG) based on various automobile features.
 ---
 
-✨ ##Features
+
+✨ Features
 
 ✅ Accurate Mileage Prediction using ML models (Linear Regression, Random Forest, XGBoost, etc.)
 
@@ -22,7 +24,7 @@ Predicting the mileage of an automobile is crucial for optimizing fuel efficienc
 ✅ Interactive Dashboard (Using Streamlit or Dash) for user-friendly predictions
 ---
 
-📂 ##Project Structure
+📂 Project Structure
 
 📁 Automobile-Mileage-Prediction
 
@@ -43,7 +45,7 @@ Predicting the mileage of an automobile is crucial for optimizing fuel efficienc
 └── 📜 dashboard.py        # Streamlit Dashboard (Optional)
 
 ---
-🔧 ##Technologies Used
+🔧 Technologies Used
 
 🔹 Python (3.8+)
 
@@ -59,7 +61,8 @@ Predicting the mileage of an automobile is crucial for optimizing fuel efficienc
 
 🔹 Streamlit/Dash - Interactive UI (Optional)
 ---
-📊 ##Data Used
+
+📊 Data Used
 
 The dataset used in this project includes various automobile attributes such as:
 
@@ -85,9 +88,6 @@ The dataset used in this project includes various automobile attributes such as:
 
 ```
 git clone https://github.com/your-username/automobile-mileage-prediction.git
-```
-
-```
 cd automobile-mileage-prediction
 ```
 
@@ -95,7 +95,6 @@ cd automobile-mileage-prediction
 
 ```
 pip install -r requirements.txt
-
 ```
 3️⃣ Run the model training script:
 
