@@ -1,12 +1,13 @@
-🚗 Automobile Mileage Prediction
+🚗 #Automobile Mileage Prediction
 
   
 
-🚀 Overview
+🚀 ##Overview
 
 Predicting the mileage of an automobile is crucial for optimizing fuel efficiency, reducing costs, and making informed decisions about vehicle performance. This project leverages machine learning techniques to build a predictive model that estimates the Miles Per Gallon (MPG) based on various automobile features.
+---
 
-✨ Features
+✨ ##Features
 
 ✅ Accurate Mileage Prediction using ML models (Linear Regression, Random Forest, XGBoost, etc.)
 
@@ -19,8 +20,9 @@ Predicting the mileage of an automobile is crucial for optimizing fuel efficienc
 ✅ Deployment Ready using Flask or FastAPI (Optional)
 
 ✅ Interactive Dashboard (Using Streamlit or Dash) for user-friendly predictions
+---
 
-📂 Project Structure
+📂 ##Project Structure
 
 📁 Automobile-Mileage-Prediction
 
@@ -40,8 +42,8 @@ Predicting the mileage of an automobile is crucial for optimizing fuel efficienc
 
 └── 📜 dashboard.py        # Streamlit Dashboard (Optional)
 
-
-🔧 Technologies Used
+---
+🔧 ##Technologies Used
 
 🔹 Python (3.8+)
 
@@ -56,8 +58,8 @@ Predicting the mileage of an automobile is crucial for optimizing fuel efficienc
 🔹 Flask/FastAPI - API deployment (Optional)
 
 🔹 Streamlit/Dash - Interactive UI (Optional)
-
-📊 Data Used
+---
+📊 ##Data Used
 
 The dataset used in this project includes various automobile attributes such as:
 
@@ -76,33 +78,45 @@ The dataset used in this project includes various automobile attributes such as:
 🌍 Origin
 
 🛣️ Miles Per Gallon (MPG) (Target Variable)
-
+---
 🔥 How to Use
 
 1️⃣ Clone the repository:
 
-
+```
 git clone https://github.com/your-username/automobile-mileage-prediction.git
+```
 
+```
 cd automobile-mileage-prediction
+```
 
 2️⃣ Install dependencies:
 
+```
 pip install -r requirements.txt
 
+```
 3️⃣ Run the model training script:
 
+```
 python src/train_model.py
+```
 
 4️⃣ (Optional) Run the Flask API:
 
+```
 python app.py
+```
 
 5️⃣ (Optional) Launch the interactive dashboard:
 
+```
 streamlit run dashboard.py
+```
+----
 
-📌 Results & Insights
+📌 ##Results & Insights
 
 🔹 Achieved high prediction accuracy with optimized machine learning models.
 
@@ -110,8 +124,8 @@ streamlit run dashboard.py
 
 🔹 Interactive Dashboard enables users to input car specifications and get predicted MPG.
 
-
-🌟 Future Enhancements
+---
+🌟 ##Future Enhancements
 
 🚀 Deep Learning Implementation (Using TensorFlow/PyTorch)
 
@@ -121,8 +135,8 @@ streamlit run dashboard.py
 
 🚀 Integration with Automobile APIs for Live Data Processing
 
-
-📢 Contributing
+---
+📢 ##Contributing
 
 Want to improve this project? Contributions are welcome! Please open an issue or submit a pull request.
 
